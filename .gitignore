@@ -2,3 +2,6 @@
 /consistent-hashing/.gradle/
 /consistent-hashing/build/
 /consistent-hashing/.idea/
+/distributed-mutex/.gradle/
+/distributed-mutex/.idea/
+/distributed-mutex/build/
